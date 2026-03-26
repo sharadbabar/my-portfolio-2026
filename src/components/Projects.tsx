@@ -21,19 +21,13 @@ const projects = [
     github: "https://github.com/sharadbabar/food-delivery-website",
   },
   {
-    title: "Supply Chain Dashboard",
-    desc: "Real-time logistics platform with interactive React dashboards, ETL pipelines, and MongoDB query optimization (42% faster).",
-    tech: ["Node.js", "React", "MongoDB", "Docker", "Jenkins"],
+    title: "Horizon Banking: Real-Time Banking & Payments Platform",
+    desc: "Premium banking dashboard with secure user authentication, account aggregation, transaction tracking, spending analytics, card management, and fund transfers.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Appwrite", "Plaid", "Dwolla", "Chart.js"],
     live: null as string | null,
-    github: null as string | null,
+    github: "https://github.com/sharadbabar/banking-main",
   },
-  {
-    title: "MoneyEasy: Real-Time Banking & Payments Platform",
-    desc: "Semantic search over 8M+ medical records using LangChain, Pinecone, Spring Boot and PostgreSQL. 40% gain in knowledge discovery speed.",
-    tech: ["Java", "LangChain", "Pinecone", "Spring Boot", "PostgreSQL"],
-    live: null as string | null,
-    github: null as string | null,
-  },
+  
 ];
 
 export default function Projects() {
