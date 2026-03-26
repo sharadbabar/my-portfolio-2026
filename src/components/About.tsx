@@ -96,7 +96,7 @@ function TerminalPanel({ visible }: { visible: boolean }) {
         <br />
         <div><span style={{ color: P.orange }}>&gt; uptime</span></div>
         <div style={{ paddingLeft: 16, color: "rgba(255,255,255,0.85)" }}>
-          4+ years <span style={{ color: "rgba(255,255,255,0.35)" }}>// still_running ✓</span>
+          4+ years <span style={{ color: "rgba(255,255,255,0.35)" }}>still_running ✓</span>
         </div>
         <br />
         <div><span style={{ color: P.orange }}>&gt; status</span></div>
@@ -184,7 +184,7 @@ export default function About() {
 
           {/* LEFT */}
           <div>
-            <p style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: 11, color: P.orange, letterSpacing: "3px", textTransform: "uppercase", marginBottom: 16, fontWeight: 600 }}>// about.me</p>
+            <p style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: 11, color: P.orange, letterSpacing: "3px", textTransform: "uppercase", marginBottom: 16, fontWeight: 600 }}>{"// about.me"}</p>
 
             <h2 ref={headRef} style={{ fontFamily: "'Clash Display',sans-serif", fontSize: "clamp(2.25rem,5vw,3.5rem)", fontWeight: 700, color: P.cream, lineHeight: 1.1, letterSpacing: "-0.02em", textTransform: "uppercase", marginBottom: 28, transform: "translateX(-60px)", opacity: 0, transition: "transform 0.6s cubic-bezier(0.22,1,0.36,1), opacity 0.5s ease" }}>
               I Build Things<br />That <span style={{ color: P.accent }}>Matter.</span>

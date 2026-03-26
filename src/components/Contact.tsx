@@ -85,7 +85,7 @@ export default function Contact() {
                 fontFamily: "'Clash Display',sans-serif", color: PALETTE.cream,
                 textTransform: "uppercase", letterSpacing: "-0.02em",
               }}>
-              Let's Build Something.
+              Let&apos;s Build Something.
             </h2>
             <p className="text-lg mb-12" style={{ fontFamily: "'Satoshi',sans-serif", color: `${PALETTE.cream}80` }}>
               Open to full-time roles and compelling freelance opportunities.
