@@ -83,7 +83,7 @@ function TerminalPanel({ visible }: { visible: boolean }) {
         <div style={{ paddingLeft: 16, color: "rgba(255,255,255,0.85)" }}>{"{"}</div>
         {[
           ["frontend", '["React", "Next.js", "Tailwind"]'],
-          ["backend",  '["Spring Boot", "Node.js", "GraphQL"]'],
+          ["backend",  '["Java","Spring Boot", "GraphQL"]'],
           ["cloud",    '["AWS", "Docker", "Kubernetes"]'],
           ["ai",       '["LangChain", "RAG", "OpenAI"]'],
         ].map(([k, v]) => (

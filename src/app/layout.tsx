@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Creative Developer | Scrollytelling Portfolio',
+  title: 'Sharad Babar Portfolio',
   description: 'A high-end personal portfolio built with Next.js, Framer Motion, and Canvas.',
 };
 

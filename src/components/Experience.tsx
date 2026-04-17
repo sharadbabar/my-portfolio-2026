@@ -20,7 +20,7 @@ const experiences = [
     duration: "Apr 2025 – Present",
     achievements: [
       "Engineered an AI-driven Clinical Knowledge Retrieval Platform using Spring Boot microservices, PostgreSQL, and Redis.",
-      "Semantic search over 8M+ records via Hugging Face, LangChain & Pinecone — 40% improvement in knowledge discovery.",
+      "Semantic search over 8M+ records via Hugging Face, LangChain & Pinecone resulting in 40% improvement in knowledge discovery.",
       "Developed secure GraphQL and REST APIs integrated with OAuth2/OIDC authentication.",
       "Ensured reliability with OpenTelemetry, Prometheus, Grafana, and Resilience4j circuit breakers.",
       "Enforced code quality through Cypress, Playwright, and JMeter test suites.",
@@ -37,7 +37,7 @@ const experiences = [
       "Optimized performance to achieve sub-250ms APIs and maintained a 98% SLA.",
       "Contributed to a cross-platform React Native mobile application.",
       "Deployed scalable AWS infrastructure (EKS, Lambda, API Gateway) via Terraform.",
-      "Streamlined CI/CD with GitHub Actions — contributing to 99.99% uptime.",
+      "Streamlined CI/CD with GitHub Actions, contributing to 99.99% uptime.",
     ],
   },
   {
